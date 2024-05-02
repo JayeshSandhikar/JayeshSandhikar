@@ -3,9 +3,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayeshsandhikar" alt="jayeshsandhikar" /></a> </p>
 
-- 🌱 I’m currently learning **TensorFlow, Scikit Learn PowerBI**
+- 🌱 Reach me for any help in  **SQL,Python, BI tools**
+- 🌱 I’m currently learning **TensorFlow, Scikit Learn**
 
-- 📫 How to reach me **Jayeshsandhikar@gmail.com**
+- 📫 How to reach me **Jayeshsandhikar@gmail.com** or **https://www.linkedin.com/in/jayesh-sandhikar/** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
